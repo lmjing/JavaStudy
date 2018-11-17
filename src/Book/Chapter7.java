@@ -28,6 +28,5 @@ public class Chapter7 {
 			this.state = Lendable.State.NORMAL;
 		}
 	}
-
 }
 
